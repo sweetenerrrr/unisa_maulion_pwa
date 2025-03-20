@@ -1,0 +1,17 @@
+[
+    {
+        "level": 1,
+        "time": 10,
+        "goal": 30
+    },
+    {
+        "level": 2,
+        "time": 8,
+        "goal": 40
+    },
+    {
+        "level": 3,
+        "time": 6,
+        "goal": 50
+    }
+]
